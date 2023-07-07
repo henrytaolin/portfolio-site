@@ -255,6 +255,15 @@ header .navbar ul li a:hover {
     cursor: pointer;
 }
 
+.portfolio .box-container .box h3 {
+    font-size: 2rem;    
+}
+
+.portfolio .box-container .box h3 span{
+    font-size: 2rem;
+    color: #fff;
+}
+
 .portfolio .box-container .box img {
     height: 100px;
     width: 100%;
